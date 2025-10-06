@@ -5,11 +5,11 @@ This was my very first React project — a short jump into component‑based dev
 
 ---
 
-## 🚀 Features
+## Features
 
-- ➕ Add new todos
-- ✅ Mark tasks as completed
-- 🗑️ Delete tasks
-- 💾 Data persistence using browser storage (optional)
-- 🔄 Responsive UI with real‑time updates
-- ✨ Clean, minimal design
+- Add new todos
+- Mark tasks as completed
+- Delete tasks
+- Data persistence using browser storage (optional)
+- Responsive UI with real‑time updates
+- Clean, minimal design
